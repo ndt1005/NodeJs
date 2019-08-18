@@ -1,0 +1,5438 @@
+Hello world.
+
+#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo
+#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo
+#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo
+#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo
+#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo
+#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo
+
+
+
+Hello world.
+
+#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo
+#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo
+#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo
+#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo
+#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo
+#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo
+
+
+Hello world.
+
+#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo
+#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo
+#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo
+#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo
+#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo
+#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo
+
+
+Hello world.
+
+#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo
+#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo
+#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo
+#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo
+#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo
+#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo
+
+
+
+Hello world.
+
+#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo
+#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo
+#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo
+#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo
+#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo
+#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo
+
+
+Hello world.
+
+#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo
+#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo
+#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo
+#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo
+#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo
+#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo
+
+
+Hello world.
+
+#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo
+#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo
+#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo
+#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo
+#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo
+#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo
+
+
+Hello world.
+
+#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo
+#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo
+#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo
+#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo
+#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo
+#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo
+
+Hello world.
+
+#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo
+#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo
+#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo
+#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo
+#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo
+#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo
+
+
+Hello world.
+
+#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo
+#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo
+#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo
+#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo
+#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo
+#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo
+
+
+Hello world.
+
+#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo
+#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo
+#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo
+#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo
+#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo
+#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo
+
+
+Hello world.
+
+#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo
+#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo
+#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo
+#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo
+#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo
+#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo
+
+
+Hello world.
+
+#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo
+#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo
+#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo
+#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo
+#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo
+#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo
+
+
+Hello world.
+
+#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo
+#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo
+#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo
+#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo
+#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo
+#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo
+
+
+Hello world.
+
+#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo
+#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo
+#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo
+#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo
+#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo
+#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo
+
+Hello world.
+
+#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo
+#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo
+#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo
+#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo
+#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo
+#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo#1. investigate and distigush "Normal function" and " Expression function"
+
+//Normal function
+normalFunction();
+function normalFunction() {
+    console.log("This is normal function");
+}
+
+//Expression function
+expressFunction();
+var expressFunction = function() {
+    console.log("This is express function");
+}
+
+- Normal function: gọi bất kỳ đâu cũng được vì nó đã được nodejs đưa vào score
+- Expression function: chỉ hiểu khi đã khai báo
