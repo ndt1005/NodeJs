@@ -1,9 +1,9 @@
 const express = require('express')
 
 const app = express();
-app.use('/assets',express.static('stuff'));
-app.set('view engine', 'ejs');
 
+app.set('view engine', 'ejs');
+app.use('/assets',express.static('stuff'));
 app.get('/', (req, res) => {
     res.render("LS27Index");
 });
